@@ -2,7 +2,6 @@
 ··· Python
 
 import math
-from functools import reduce, partial
 import time
 
 '''------------------------------------|Handle the Data|------------------------------------'''
